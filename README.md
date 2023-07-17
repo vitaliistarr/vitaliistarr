@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Vitaly 👋
-- M.Sc in Engineering
-- Research Assistant at [Heriot-Watt University](https://www.hw.ac.uk/)
+- M.Sc. in Engineering
+- Research Assistant at [Heriot-Watt University Dubai](https://www.hw.ac.uk/dubai/)
 - Applied machine learning, uncertainty quantification
 
 ### My stack! :dango:
