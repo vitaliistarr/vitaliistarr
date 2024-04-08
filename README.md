@@ -1,8 +1,8 @@
 
 ### Hi there! I'm Vitaly 👋
-- M.Sc. in Engineering
-- Research Assistant at [Heriot-Watt University Dubai](https://www.hw.ac.uk/dubai/)
-- Applied machine learning, uncertainty quantification
+- M.Sc. in GeoEnergy Engineering
+- Researcher at [Heriot-Watt University Dubai](https://www.hw.ac.uk/dubai/)
+- Expertise in Data Science, Machine Learning and GeoEnergy
 
 ### My stack! :dango:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
