@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Vitaly 👋
 - M.Sc. in GeoEnergy Engineering
-- Researcher at [Heriot-Watt University Dubai](https://www.hw.ac.uk/dubai/)
+- Research Engineer at [Heriot-Watt University Dubai](https://www.hw.ac.uk/dubai/)
 - Expertise in Data Science, Machine Learning and GeoEnergy
 
 ### My stack! :dango:
